@@ -58,5 +58,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aketirani&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&include_all_commits=false&count_private=false&layout=compact&card_width=278" alt="Top Langs" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aketirani&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&include_all_commits=false&count_private=false&layout=compact&card_width=278" alt="Top Langs" />
 </p>
